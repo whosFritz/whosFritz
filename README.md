@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whosfritz&label=Profile%20views&color=0e75b6&style=flat" alt="whosfritz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whosfritz" alt="whosfritz" /></a> </p>
-
 - 🔭 I’m currently working on django and flutter projects **MensaApp**
 
 - 🌱 I’m currently learning **django**
