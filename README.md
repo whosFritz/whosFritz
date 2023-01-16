@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whosfritz&show_icons=true&locale=en" alt="whosfritz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whosfritz&" alt="whosfritz" /></p>
+<p><img align="center" src="[![GitHub Streak](https://streak-stats.demolab.com?user=whosFritz&theme=merko&locale=de&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)" alt="whosfritz" /></p>
