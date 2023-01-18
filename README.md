@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whosfritz&label=Profile%20views&color=0e75b6&style=flat" alt="whosfritz" /> </p>
 
-- 🔭 I’m currently working on django and flutter projects **MensaApp**
+- 🔭 I’m currently working on django and flutter projects **MensiApp**
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning the **flutter framework**
 
 - 👯 I’m looking to collaborate on [API's](MensaApp)
 
