@@ -1,5 +1,5 @@
 <h1 align="center">Halli Hallo 👋, I'm Fritz</h1>
-<h3 align="center">I want to become a passionate fullstack dev someday.</h3>
+<h3 align="center">I'm passionate and want to become a fullstack dev someday.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whosfritz&label=Profile%20views&color=0e75b6&style=flat" alt="whosfritz" /> </p>
 
