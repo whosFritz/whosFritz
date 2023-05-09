@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on django and flutter projects **MensiApp**
 
-- 🌱 I’m currently learning the **flutter framework**
+- 🌱 I’m currently learning the **Spring Boot**
 
 - 👯 I’m looking to collaborate on [API's](MensaApp)
 
-- 💬 Ask me about **django**
+- 💬 Ask me about **flutter and Spring Boot**
 
 - ⚡ Fun fact **Django unchained is not my fav movie.**
 
