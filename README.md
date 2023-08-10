@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whosfritz&label=Profile%20views&color=0e75b6&style=flat" alt="whosfritz" /> </p>
 
-- 🔭 I’m currently working on django and flutter projects **MensiApp**
+- 🔭 I’m currently working on **Spring Boot**🌱 and flutter projects **MensiApp**
 
-- 🌱 I’m currently learning the **Spring Boot**
-
-- 👯 I’m looking to collaborate on [API's](MensaApp)
+- 👯 looking to collaborate on [API's](MensaApp)
 
 - 💬 Ask me about **flutter and Spring Boot**
 
