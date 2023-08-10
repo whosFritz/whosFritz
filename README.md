@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whosfritz&label=Profile%20views&color=0e75b6&style=flat" alt="whosfritz" /> </p>
 
-- 🔭 I’m currently working on **Spring Boot**🌱 and flutter projects **MensiApp**
+- 🔭 I’m currently working on **Spring Boot** 🌱 and flutter projects **MensiApp**
 
 - 👯 looking to collaborate on [API's](MensaApp)
 
