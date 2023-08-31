@@ -25,3 +25,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whosFritz&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=whosFritz&theme=nightowl&locale=de&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+![](https://hit.yhype.me/github/profile?user_id=97552289)
