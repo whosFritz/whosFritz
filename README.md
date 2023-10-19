@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Geo-Mapping-Ivan](https://github.com/whosFritz/geo-mapping-ivan)
 
-- 🌱 I’m currently learning **SpringBoot, Golang, SveltKit**
+- 🌱 I’m currently learning **SpringBoot, Golang, SveltKit, Go**
 
 - 👯 I’m looking to collaborate on [MensiMates](https://github.com/whosFritz/MensiMates)
 
