@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [MensiMates](https://github.com/whosFritz/MensiMates)
 
-- 🤝 I’m looking for help with [BreakDecider](https://github.com/whosFritz/PermissionTracker)
+- 🤝 I’m looking for help with [PermissionTracker](https://github.com/whosFritz/PermissionTracker)
 
 - 👨‍💻 All of my projects are available at [https://github.com/whosFritz/whosFritz](https://github.com/whosFritz/whosFritz)
 
