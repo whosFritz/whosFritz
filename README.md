@@ -3,13 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whosfritz&theme=radical" alt="whosfritz" /></a> </p>
 
-- 🔭 I’m currently working on [Rail Insights](https://github.com/whosFritz/Rail-Insights)
-- 👯 I’m looking to collaborate on [Mensi Mates](https://github.com/whosFritz/MensiMates)
-- 🌱 I’m currently learning **Sveltekit, Golang, Spring Boot**
+- 🌱 I’m currently learning **NextJs**
 
 - 📫 How to reach me **<a href="https://www.linkedin.com/in/fritz-schubert-616a00246">LinkedIn</a>**
 - 👨‍💻 All of my projects are available at **<a href="https://www.whosfritz.de">whosfritz.de</a>**
-- ⚡ Fun fact **The "404" error code on the internet refers to a webpage not being found, and it came from room 404 at CERN where the World Wide Web was developed.**
 
 <div> <a href="https://www.linkedin.com/in/fritz-schubert-616a00246" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/whosfritz" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
